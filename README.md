@@ -5,6 +5,31 @@ LightBnB is a simple version of AirBnb. It allows users to rent their own proper
 
 ## Screenshots
 
+![home-page-search](https://github.com/brendsmvreal/LightBnB/blob/main/screenshots/home-page-search.png)
+* Home page
+
+![login-page](https://github.com/brendsmvreal/LightBnB/blob/main/screenshots/login-page.png)
+* Login page
+
+![sign-up-page](https://github.com/brendsmvreal/LightBnB/blob/main/screenshots/sign-up-page.png)
+* Sign-up page
+
+![page-search-user-logged](https://github.com/brendsmvreal/LightBnB/blob/main/screenshots/page-search-user-logged.png)
+* Seach page when user is logged in
+
+![my-reservations-page](https://github.com/brendsmvreal/LightBnB/blob/main/screenshots/my-reservations-page.png)
+* My reservations page 
+
+![add-property-page](https://github.com/brendsmvreal/LightBnB/blob/main/screenshots/add-property-page.png)
+* Add property page
+
+![my-listing-page](https://github.com/brendsmvreal/LightBnB/blob/main/screenshots/my-listing-page.png)
+* My listing page
+
+
+
+
+
 
 ## Getting Started
 
